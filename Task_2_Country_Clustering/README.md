@@ -2,13 +2,13 @@
 
 K-Means clustering used to group countries into Developed, Developing, and Underdeveloped.
 
-## 📊 Dataset
+## Dataset
 - `country_data.csv`
 
-## ⚙️ Techniques
+## Techniques
 - StandardScaler for preprocessing
 - KMeans with 3 clusters
 - Cluster centroids visualised and interpreted
 
-## 📁 Files
+## Files
 - `Task_2_Clustering.py`: Code for preprocessing, clustering, and visualisation
